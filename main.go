@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/ledyba/go-hanako/repo"
+	"github.com/hanako-san/go-hanako/repo"
 )
 
 func main() {
